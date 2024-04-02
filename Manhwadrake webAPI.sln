@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Manhwadrake-webAPI", "Manhwadrake webAPI\Manhwadrake-webAPI.csproj", "{190C498B-B07D-4807-A6A7-25539F0353EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{190C498B-B07D-4807-A6A7-25539F0353EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{190C498B-B07D-4807-A6A7-25539F0353EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{190C498B-B07D-4807-A6A7-25539F0353EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{190C498B-B07D-4807-A6A7-25539F0353EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36EAE1B6-E3CA-48EF-94EB-F950144EA592}
+	EndGlobalSection
+EndGlobal
